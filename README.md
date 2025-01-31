@@ -20,8 +20,11 @@ Este proyecto es una aplicación web creada para el curso ORACLE ONE para realiz
 -Abre el archivo index.html en tu navegador.
 
 ## Estructura del Proyecto
-
-AmigoSecreto/ │── assets/ # Imágenes │── style.css # Estilos de la aplicación │── app.js # Lógica del sorteo │── index.html # Estructura principal
+AmigoSecreto/
+│── assets/               # Imágenes
+│── style.css             # Estilos de la aplicación
+│── app.js                # Lógica del sorteo
+│── index.html            # Estructura principal
 
 
 Autor:

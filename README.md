@@ -1,4 +1,4 @@
-#Amigo Secreto
+# Amigo Secreto
 
 Descripción
 
@@ -24,7 +24,7 @@ Instalación y Uso
 
 Clona este repositorio:
 
-git clone https://github.com/tu-usuario/amigo-secreto.git
+```git clone https://github.com/tu-usuario/amigo-secreto.git```
 
 Abre el archivo index.html en tu navegador.
 
